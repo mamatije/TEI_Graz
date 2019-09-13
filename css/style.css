@@ -1,0 +1,9 @@
+tei-head {
+  color: purple;
+}
+tei-head:before{
+  content:"["
+}
+tei-head:after{
+  content: "]"
+}
